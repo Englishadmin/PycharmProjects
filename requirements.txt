@@ -1,0 +1,8 @@
+certifi==2019.6.16
+chardet==3.0.4
+easygui==0.98.1
+idna==2.8
+pygame==1.9.6
+requests==2.22.0
+sendmail==2.0
+urllib3==1.25.3
